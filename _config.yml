@@ -17,16 +17,16 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "AutoDesignCheck"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+subtitle                 : # Streamlining Design QA through Digitalization”
+name                     : "Juhee Chae"
+description              : "AutoDesignCheck is a research initiative focused on transforming 2D engineering drawings into digital formats and automatically verifying design specifications. Our goal is to make design validation faster, smarter, and more reliable using AI-powered tools."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : # I am a graduate student at Seoul National University, working on AI-driven methods to digitize 2D engineering drawings and automatically verify design specifications."
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Juhee Chae"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am a graduate student at Seoul National University, working on AI-driven methods to digitize 2D engineering drawings and automatically verify design specifications."
+  location         : "Seoul, Korea"
+  email            : chaejuhee@snu.ac.kr
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
