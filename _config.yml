@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Juhee Chae"
-  avatar           : # path of avatar image, e.g. "assets/ChatGPT Image 2026년 1월 5일 오후 06_11_51.png"
+  avatar           : "assets/ChatGPT Image 2026년 1월 5일 오후 06_11_51.png"
   bio              : "I am a graduate student at Seoul National University, working on AI-driven methods to digitize 2D engineering drawings and automatically verify design specifications."
   location         : "Seoul, Korea"
   email            : chaejuhee@snu.ac.kr
